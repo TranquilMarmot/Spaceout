@@ -6,7 +6,7 @@
 			command="LOAD_GAME"
 		/>
 		<button
-			name="Quit"
+			name="Quit the Game"
 			command="QUIT_GAME"
 		/>
 	</menu>
@@ -16,15 +16,15 @@
 			command="RESUME"
 		/>
 		<button
-			name="Main Menu"
+			name="Go to the Main Menu"
 			command="MAIN_MENU"
 		/>
 		<button
-			name="Save"
+			name="Save progress"
 			command="SAVE_GAME"
 		/>
 		<button
-			name="Quit"
+			name="Quit the game"
 			command="QUIT_GAME"
 		/>
 	</menu>
